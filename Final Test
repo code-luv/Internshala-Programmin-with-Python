@@ -1,0 +1,217 @@
+1) What will be result of following expression? 'INTERNSHALA'.lower().isupper() 
+A. Result will be, 'True'. 
+B. Result will be, 'False'. 
+Solution : B
+
+2) Which type of operands are permitted with logical operators? 
+A. Numeric 
+B. Boolean 
+C. String 
+D. All three - Numeric, Boolean and String 
+Solution : D 
+
+3) What is the value of the following arithmetic expression: 5*2**10 
+A. 100 
+B. 10000000000 
+C. 5120
+Solution  : C 
+
+4) Which of the following is an invalid expression?
+A. [1,2]+[4]
+B. [1,2]*4
+C. (1,2)*4
+D. [1,2]^4
+Solution  : D
+
+5) What is the purpose of the method items() when used with a dictionary?
+A. Return a list of tuples
+B. Return a tuple of lists
+C. Return a tuple of tuples
+D. Return a list of list
+Solution  : A
+
+6) What is the purpose of the function, pop()?
+A. Remove the first element from the list
+B. Remove the last element from the list
+C. Highlight the first and last element in the list
+D. Remove all elements from the list
+Solution  : B
+
+7) Read the statement and select the most approproate option.
+The menu system cannot be displayed on the QWidget form
+A. True,because QWidget window is too small.
+B. True,because it is not a top level window.
+C. True,because it doesn't have a predefined place for menu bar, toolbar, and status bar
+D. False, because the menu can be on QWidget form
+Solution  : B
+
+8) Which of the following operations is NOT possible after you have converted a .py file into an executable script?
+A.
+B.
+C.
+D.
+Solution  : 
+
+9)  
+class book:
+def __init__(self):
+self.name="Python Programming"
+self.price=200 b1=book()
+Based on the above, which of the following statements is correct?
+A. print(b1.price)
+B. print(book.__price)
+C. print(_book.__price)
+D. print(b1._book__price)
+Solution  : A
+
+10) Is this statement true or false?
+The variable name, 3score is a valid name.
+A. True
+B. False
+Solution  : B
+
+11) In the following code snippet, which is the cursor object? 
+import sqlite3 
+Internshala=sqlite3.connect('trainings.db') 
+IStrg=Internshala.cursor()
+A. sqlite3
+B. Internshala
+C. |Strg
+D. trainings.db
+Solution  : C
+
+12) Which software do you need to execute a Python script?
+A. Compiler
+B. Interpreter
+C. Database
+D. None of these
+Solution  : B
+
+13) The correct method to add child layout is:
+A. setLayout()
+B. addLayout()
+C. addWidget()
+Solution  : B
+
+14) Identify the correct data type. ["Joey", "Rachael", 2, 6, 5+2j]
+A. List
+B. String
+C. Dictionary 
+D. Float
+Solution  : A
+
+15) In order to overload == operator, which magic method must be overridden?
+A. __comp__()
+B. __eq__()
+C. __equal__()
+D. __ne__()
+Solution  : B
+
+16) What is the output of the following code snippet?
+for x in range(4):
+    print(x)
+A. 1 2 3 4
+B. 0 1 2 3
+C. 4 4 4 4
+Solution  : B
+
+17) The __add__() method
+A.
+B.
+C.
+D.
+Solution  : 
+
+18) What is the purpose of the clear() method in a dictionary?
+A.
+B.
+C.
+D.
+Solution  : 
+
+19) Which of the following is an invalid integer object in Python?
+A. 0o123
+B. 123
+C. 0123
+D. 0x123
+Solution  : C
+
+20) Which method is used to fetch all the remaining records in the form of a list of tuples?
+A. fetchall()
+B. fetchone()
+C. select()
+D. execute()
+Solution  : A
+
+21) Identify the correct data type. 
+03.00
+A. Integer
+B. Complex
+C. Float
+D. String
+Solution  : C
+
+22) What is not true about overriding in Python?
+A.
+B.
+C.
+D.
+Solution  : 
+
+23) Which of the following will result in True?
+A. '0x12'.isdigit()
+B. '12.0'.isdigit()
+C. '012'.isdigit()
+D. '1.2e01'.isdigit()
+Solution  : 
+
+24) Instance variables and methods in Python class are:
+A. Public by default
+B. Private by default
+C. Protected by default
+D. These terms are not applicable in python
+Solution  : A
+
+25) Which of following statements is incorrect?
+A.
+B.
+C.
+D.
+Solution  : 
+
+26) A class may contain
+A. Instance attributes and instance methods
+B. Class attributes and class methods
+C. only a
+D. both a and b
+Solution  : D
+
+27) Which syntax element is used to define a code block? (A code block is a group of statements that, together, perform a task.)
+A. Comment
+B. Triple Quotes, """ """
+C. Indent
+D. Curly brackets, {}
+Solution  : C
+
+28) What is the correct term for the arguments, x and y in the following function?
+def test( x, y ): if x < y:
+return x return y
+print(maxof(12, 19))
+A. Actual Parameters
+B. Formal Parameters
+C. Real Parameters
+Solution  : B
+
+29) Which of the following is the right statement for including the use of function in the random library?
+A. import random
+B. random.random
+C. import.random
+D. random()
+Solution  : A
+
+30) The __new__() method
+A. Initializes instance variables
+B. Acts as constructor
+C. Both a and b
+D. Create a new object
+Solution  : D
